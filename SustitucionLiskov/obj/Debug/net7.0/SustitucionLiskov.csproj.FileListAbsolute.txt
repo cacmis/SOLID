@@ -1,0 +1,15 @@
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.csproj.AssemblyReference.cache
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.AssemblyInfoInputs.cache
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.AssemblyInfo.cs
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.csproj.CoreCompileInputs.cache
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/bin/Debug/net7.0/SustitucionLiskov
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/bin/Debug/net7.0/SustitucionLiskov.deps.json
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/bin/Debug/net7.0/SustitucionLiskov.runtimeconfig.json
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/bin/Debug/net7.0/SustitucionLiskov.dll
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/bin/Debug/net7.0/SustitucionLiskov.pdb
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.dll
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/refint/SustitucionLiskov.dll
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.pdb
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/SustitucionLiskov.genruntimeconfig.cache
+/Users/cacmis/Projects/SOLID/SustitucionLiskov/obj/Debug/net7.0/ref/SustitucionLiskov.dll

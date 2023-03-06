@@ -1,0 +1,15 @@
+/Users/cacmis/Projects/SOLID/DependencyInversion/bin/Debug/net7.0/DependencyInversion
+/Users/cacmis/Projects/SOLID/DependencyInversion/bin/Debug/net7.0/DependencyInversion.deps.json
+/Users/cacmis/Projects/SOLID/DependencyInversion/bin/Debug/net7.0/DependencyInversion.runtimeconfig.json
+/Users/cacmis/Projects/SOLID/DependencyInversion/bin/Debug/net7.0/DependencyInversion.dll
+/Users/cacmis/Projects/SOLID/DependencyInversion/bin/Debug/net7.0/DependencyInversion.pdb
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.csproj.AssemblyReference.cache
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.AssemblyInfoInputs.cache
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.AssemblyInfo.cs
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.csproj.CoreCompileInputs.cache
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.dll
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/refint/DependencyInversion.dll
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.pdb
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/DependencyInversion.genruntimeconfig.cache
+/Users/cacmis/Projects/SOLID/DependencyInversion/obj/Debug/net7.0/ref/DependencyInversion.dll

@@ -1,0 +1,15 @@
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.deps.json
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.runtimeconfig.json
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.dll
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/bin/Debug/net7.0/InterfaceSegregation.pdb
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.csproj.AssemblyReference.cache
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.AssemblyInfoInputs.cache
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.AssemblyInfo.cs
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.csproj.CoreCompileInputs.cache
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.dll
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/refint/InterfaceSegregation.dll
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.pdb
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/InterfaceSegregation.genruntimeconfig.cache
+/Users/cacmis/Projects/SOLID/InterfaceSegregation/obj/Debug/net7.0/ref/InterfaceSegregation.dll

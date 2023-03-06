@@ -12,3 +12,7 @@ Liskov Substitution Principle (Principio de Sustitución de Liskov): Este princi
 Interface Segregation Principle (Principio de Segregación de Interfaces): Las interfaces deben ser pequeñas y específicas para que los clientes solo necesiten conocer aquello que les interesa.
 
 Dependency Inversion Principle (Principio de Inversión de Dependencias): Las clases de alto nivel no deben depender de las clases de bajo nivel, sino al contrario.
+
+
+Lista de videos con la explicacion.
+https://www.youtube.com/playlist?list=PL9Bm8IOGYHA3hUiZkHa9P7K5K4efeE0A8
